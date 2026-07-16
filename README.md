@@ -145,6 +145,7 @@ It was selected because it achieved the highest F1 score while maintaining a str
 
 ## Project Structure
 
+```text
 deployment/
 │
 ├── preprocess.py      # Text preprocessing
@@ -155,7 +156,7 @@ deployment/
 ├── models/            # Saved model + TF-IDF
 └── frontend/          # Next.js UI
 
-
+```text
 ---
 
 ## Acknowledgements
