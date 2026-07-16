@@ -141,7 +141,7 @@ It was selected because it achieved the highest F1 score while maintaining a str
 - Pytest
 - FastAPI TestClient
 
----
+
 
 ## Project Structure
 
@@ -169,7 +169,7 @@ Official GitHub Repository:
 https://github.com/goobolabs
 
 
----
+
 
 ## Author
 
