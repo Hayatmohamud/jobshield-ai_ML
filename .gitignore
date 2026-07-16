@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Environment variables
+.env
+.env.local
+
+# Datasets
+dataset/raw/
+dataset/processed/
+
+# Large trained artifacts
+models/*.pkl
+models/*.joblib
