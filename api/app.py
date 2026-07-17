@@ -16,6 +16,9 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",
         "http://127.0.0.1:3000",
+        "https://jobshield-ai-ml-coral.vercel.app",
+        "https://jobshield-ai-ml-hayats-projects-a679eba8.vercel.app",
+        "https://jobshield-ai-ml-git-main-hayats-projects-a679eba8.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],

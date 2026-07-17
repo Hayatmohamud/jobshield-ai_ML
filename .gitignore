@@ -19,5 +19,5 @@ dataset/raw/
 dataset/processed/
 
 # Large trained artifacts
-models/*.pkl
-models/*.joblib
+# models/*.pkl
+# models/*.joblib
